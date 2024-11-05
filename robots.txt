@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uheraiki.github.io/LvV/sitemap_index.txt
+Sitemap: https://uheraiki.github.io/RcO/sitemap_index.txt
+Sitemap: https://uheraiki.github.io/XKO/sitemap_index.txt
+Sitemap: https://uheraiki.github.io/pTU/sitemap_index.txt
